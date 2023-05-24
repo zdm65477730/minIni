@@ -9,13 +9,4 @@
  */
 #pragma once
 
-#ifdef __cplusplus
-extern "C"
-{
-#endif
-
 #include "../dev/minIni.h"
-
-#ifdef __cplusplus
-}
-#endif
